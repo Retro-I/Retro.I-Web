@@ -1,0 +1,170 @@
+[
+  {
+    "color": "#00A1D6",
+    "id": "2a756cf7-35a4-469e-ad09-0afce7913214",
+    "logo": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b366004f6196d70c?w=512",
+    "name": "Bayern 1",
+    "src": "https://dispatcher.rndfnk.com/br/br1/nbopf/mp3/mid"
+  },
+  {
+    "color": "#80CC28",
+    "id": "6e761b02-17ad-4142-a08e-745c3c71d4e5",
+    "logo": "https://api.ardmediathek.de/image-service/images/urn:ard:image:52fd25fc45de7c6a?w=512",
+    "name": "Bayern 3",
+    "src": "https://dispatcher.rndfnk.com/br/br3/live/mp3/mid"
+  },
+  {
+    "color": "#003B82",
+    "id": "79b48682-c8ec-40b3-80d2-93df6cfd1aa7",
+    "logo": "https://api.ardmediathek.de/image-service/images/urn:ard:image:37a3d50efe6feacb?w=512",
+    "name": "BR Heimat",
+    "src": "https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid"
+  },
+  {
+    "color": "#FCD51E",
+    "id": "5434163b-40b1-4247-b493-3ccbd19183c2",
+    "logo": "https://www.antenne.de/logos/station-antenne-bayern/apple-touch-icon.png",
+    "name": "Antenne Bayern",
+    "src": "https://stream.antenne.de/antenne/stream/aacp"
+  },
+  {
+    "color": "#E6001E",
+    "id": "4eafc2b9-a34a-4f28-be52-9cad638dd63c",
+    "logo": "http://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+    "name": "Rock Antenne Bayern",
+    "src": "https://stream.antenne.de/rockantenne-bayern/stream/aacp"
+  },
+  {
+    "color": "#F5B52E",
+    "id": "41db5229-9b6c-4e70-8087-5e74f94b8331",
+    "logo": "https://www.ramasuri.de/storage/thumbs/192x192/r:1712659775/174120.png",
+    "name": "Radio Ramasuri",
+    "src": "http://mp3.ramasuri.c.nmdn.net/ps-ramasuri/livestream.mp3"
+  },
+  {
+    "color": "#003C65",
+    "id": "21f7820c-6712-4f1e-9923-71200ea31439",
+    "logo": "https://amberg-weiden.radiogalaxy.de/storage/thumbs/192x192/r:1677262065/17728.png",
+    "name": "Radio Galaxy",
+    "src": "https://radiogalaxyweiden--di--nacs-ais-lgc--08--cdn.cast.addradio.de/radiogalaxyweiden/live/mp3/high?_art=dj0yJmlwPTkzLjE5Mi4xMTkuOTMmaWQ9aWNzY3hsLXd4anNlNWduYiZ0PTE2NDgwNzAwNjEmcz03ODY2ZjI5YyNkYTE0NDA5OWRiOTdmY2NmNGFkNmQ3ZWUzYTdiN2QxYg"
+  },
+  {
+    "color": "#CC0000",
+    "id": "d6516b8e-924c-456c-941f-605995b432d4",
+    "logo": "https://www.radiowoche.de/wp-content/uploads/2025/05/Neues-BOB-Logo-2025.jpg",
+    "name": "Radio Bob",
+    "src": "http://streams.radiobob.de/bob-national/aac-64/mediaplayer"
+  },
+  {
+    "color": "#CC0000",
+    "id": "49f3ed26-594f-4c20-940c-1c0a36aaf6f3",
+    "logo": "http://www.radiodumba.de/.cm4all/sysdb/favicon/icon-120x120_de1a736.png",
+    "name": "Radio Dumba",
+    "src": "https://radio-dumba.stream.laut.fm/radio-dumba"
+  },
+  {
+    "color": "#700040",
+    "id": "47281868-96c9-4449-afc9-4f9023cb8883",
+    "logo": "https://schlagerparadies.de/images/rsp_setup/apple-icon-180x180.png",
+    "name": "Radio Schlagerparadies",
+    "src": "https://webstream.schlagerparadies.de/schlagerparadies128k.mp3"
+  },
+  {
+    "color": "#FF6612",
+    "id": "6bd7527d-e93d-4156-852c-9ec95cb4f916",
+    "logo": "https://www.radiopaloma.de/wp-content/themes/cmms-theme-radio_paloma/assets/img/logo.svg",
+    "name": "Radio Paloma",
+    "src": "http://pool.radiopaloma.de/RADIOPALOMA.mp3"
+  },
+  {
+    "color": "#AD0A4F",
+    "id": "eb9c89a4-79ef-4cce-80ce-65a1bb616dbf",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sunshine_live_Logo_2022.svg/640px-Sunshine_live_Logo_2022.svg.png",
+    "name": "Sunshine live Hardstyle",
+    "src": "https://stream.sunshine-live.de/hardstyle/mp3-192/stream.sunshine-live.de/"
+  },
+  {
+    "color": "#FF0000",
+    "id": "76620746-f06f-4696-a9a2-e0ea2c335dec",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQAT-AV4CT86_3eXzqIO-mpkjPpEBKIlQK9A&s",
+    "name": "Radio Energy",
+    "src": "https://edge61.streamonkey.net/energy-nuernberg?aggregator=shorty"
+  },
+  {
+    "color": "#FF009A",
+    "id": "42c4899a-747f-462d-8f2b-bf17ad1efe1f",
+    "logo": "https://www1.wdr.de/resources/img/wdr/logo/epgmodule/1live_logo_claim.svg",
+    "name": "1 LIVE",
+    "src": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3"
+  },
+  {
+    "color": "#00928B",
+    "id": "f6b486b1-201a-424f-a950-cf1f690260f5",
+    "logo": "https://www.ffn.de/fileadmin/ffn.de/musik/streams/bollerwagen.png",
+    "name": "Radio Bollerwagen",
+    "src": "https://player.ffn.de/radiobollerwagen.mp3"
+  },
+  {
+    "color": "#CC1033",
+    "id": "a34db392-6362-4aba-92d8-a8c5b7f59ec0",
+    "logo": "https://www.radio.de/175/absoluthot.png?version=3b0437d8076d127077a322e2b4903ec3443ab5b4",
+    "name": "Absolut Hot",
+    "src": "https://edge67.live-sm.absolutradio.de/absolut-hot"
+  },
+  {
+    "color": "#7A949E",
+    "id": "2817dfdc-e4a7-4d8a-b586-1d99c3a1c733",
+    "logo": "https://schwarzwaldradio.s3-cdn.welocal.cloud/sources/30_0bilp1tabhdfc_nr9lh28cs6ggk.svg",
+    "name": "Schwarzwaldradio",
+    "src": "https://edge59.streamonkey.net/fho-schwarzwaldradiohifi"
+  },
+  {
+    "color": "#6A5F33",
+    "id": "ddfc49d6-5d7a-4128-bfd4-2b93a89a250c",
+    "logo": "https://www.technobase.fm/content/images/site/logo-technobase.fm.png",
+    "name": "TechnoBase.FM",
+    "src": "https://listen.technobase.fm/tunein-mp3"
+  },
+  {
+    "color": "#FFDD00",
+    "id": "8d12e263-be73-412b-856b-6d8484313cf0",
+    "logo": "https://myonlineradio.de/public/uploads/radio_img/95-5-charivari/play_250_250.webp",
+    "name": "Chari Vari",
+    "src": "https://live.stream.charivari.de/955charivari-webradio?aggregator=charivari_de_link"
+  },
+  {
+    "color": "#014C6B",
+    "id": "9c93f954-a5ce-4557-a32e-0cfb3f5d78cb",
+    "logo": "https://www.antenne.de/media/cache/3/version/59534/chillout-antenne-aggregatoren-800x800-v1.png/525ec93a8f7e5f28.webp",
+    "name": "Chillout Antenne",
+    "src": "https://s5-webradio.antenne.de/chillout/stream/mp3"
+  },
+  {
+    "color": "#2C9BD3",
+    "id": "3428a55c-5215-4579-a1a9-86ca76ac56e4",
+    "logo": "https://www.radio.de/300/lautfm-antenne-adria.jpeg?version=2f9f300e3ce58d2bb7d2a4f5ab5a951ebb0d1c3a",
+    "name": "Antenne Adria",
+    "src": "https://antenne-adria.stream.laut.fm/antenne-adria"
+  },
+  {
+    "color": "#104484",
+    "id": "b442f2f4-239d-4d4a-ad12-3d22e9c6daa7",
+    "logo": "https://images.radiobob.de/files/2025-07/bob_wackenradio_stream_tile_mit_schrift.jpg?width=360&height=360",
+    "name": "Wacken Radio",
+    "src": "https://wacken.stream.laut.fm/wacken"
+  },
+  {
+    "color": "#167EBE",
+    "id": "f967d487-359b-4d50-9f79-4271ada52236",
+    "logo": "https://images.radiobob.de/files/2025-05/mittelalter_rock_stream_schrift.jpg",
+    "name": "Radio Bob Mittelalter",
+    "src": "http://streams.radiobob.de/mittelalter/mp3-192/mediaplayer"
+  },
+  {
+    "color": "#BC941F",
+    "id": "e7e872db-bfb8-47f7-b535-9f46a354ae5b",
+    "logo": "https://assets.laut.fm/519f4bd65dccf6120ae835bc5e55488f?t=_640x640",
+    "name": "Blasmusik Radio",
+    "src": "https://stream.laut.fm/blasmusikradio"
+  }
+]
