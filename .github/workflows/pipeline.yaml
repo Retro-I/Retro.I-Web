@@ -48,11 +48,11 @@ jobs:
         uses: actions/setup-node@v4
 
       - name: Build Docker image
-        if: github.ref_type == 'tag' || github.ref_name == 'main' || github.ref_name == 'dev'
+        if: github.ref_type == 'tag' || github.ref_name == 'main'
         run: docker build --build-arg revision=${{ env.VERSION }} . -t ${{ env.IMAGE_NAME }}:${{ env.VERSION }}
 
       - name: Push to Dockerhub
-        if: github.ref_type == 'tag' || github.ref_name == 'main' || github.ref_name == 'dev'
+        if: github.ref_type == 'tag' || github.ref_name == 'main'
         run: |
           docker login -u=${{ secrets.DOCKERHUB_USER }} -p=${{ secrets.DOCKERHUB_PASS }}
           docker push ${{ env.IMAGE_NAME }}:${{ env.VERSION }}
