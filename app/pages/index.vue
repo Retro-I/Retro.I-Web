@@ -113,6 +113,15 @@ function saveStationToList(item: Station) {
         </div>
       </v-item-group>
     </v-container>
+    <v-footer class="d-flex align-center justify-center ga-2 flex-wrap flex-grow-1 py-3" color="surface-light" app>
+        <a href="https://docs.retroi.de">
+          <v-btn class="mb-4" prepend-icon="mdi-arrow-left">Back to docs</v-btn>
+        </a>
+      <v-divider />
+      <div class="mt-4">
+        Made with ❤ and VueJS by <a href="https://github.com/DomeRepo">@DomeRepo</a> and <a href="https://github.com/felixholfelder">@felixholfelder</a>
+      </div>
+    </v-footer>
   </div>
 </template>
 
